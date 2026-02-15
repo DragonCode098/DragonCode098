@@ -15,6 +15,12 @@ Status: Root Access Secured.
 
 DragonCode098@terminal:~$ \_
 <br/>
+![DragonCode098](https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif)
+<img 
+  src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif" 
+  alt="DragonCode098" 
+  height="325">
+
 <div align="center">
   <img height="295" src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif"  />
 </div>
