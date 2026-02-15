@@ -16,14 +16,14 @@ DragonCode098@terminal:~$ \_
 <img src="{Dragon_Burns_Gambling_Websites_Seamlessly.gif}" />
 
 
-```My Skill```
+```My Skill```<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,r,git,docker,react,linux,py,kali)](https://skillicons.dev)
 
-```GitHub Stats```
+```GitHub Stats```<br/>
 ![](https://github-readme-stats.vercel.app/api?username=DragonCode098&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=DragonCode098&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonCode098&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-```Top Contributed Repo```
+```Top Contributed Repo```<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=DragonCode098&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
