@@ -4,7 +4,7 @@ Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 <img src="Background/dragoncodebanner.png" alt="Banner">
 
 <h1 align="center">About Alfa Rizky Saputra </h1>
-<h5 align="center">Founder Dragon Code</h5>
+<h3 align="center">Founder Dragon Code</h3>
 
 <p align="justify">Saya adalah seorang karyawan pabrik sekaligus mahasiswa S1 Sistem Informasi, yang sedang menempuh perjalanan panjang di dunia teknologi. Di luar rutinitas harian, saya membangun mimpi besar melalui Dragon Code ,
  Sebuah identitas yang mencerminkan semangat, disiplin, dan konsistensi saya di dunia IT.
