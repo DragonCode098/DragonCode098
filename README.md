@@ -13,19 +13,14 @@ Status: Root Access Secured.
 > _"Menghapus jejak digital yang merusak, satu baris kode di setiap waktu."_
 ---
 
-
+DragonCode098@terminal:~$ \_
 <br/>
-
 ![DragonCode098](https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif)
+
 <img 
   src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif" 
   alt="DragonCode098" 
   height="325">
-
-<div align="center">
-  <img height="295" src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif"  />
-</div>
-
 
 ```My Skill```<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,r,git,docker,react,linux,py,kali)](https://skillicons.dev)
