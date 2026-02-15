@@ -11,9 +11,9 @@ Status: Root Access Secured.
 > _"Menghapus jejak digital yang merusak, satu baris kode di setiap waktu."_
 ---
 
-dragon@terminal:~$ \_
+DragonCode098@terminal:~$ \_
 
-
+<img src="{Dragon_Burns_Gambling_Websites_Seamlessly.gif}" />
 
 
 ```My Skill```
