@@ -1,7 +1,9 @@
 Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 
 ## Welcome to Dragon Code's Repository
-![](github-header-banner.png)
+<img src="Background/github-header-banner.png" alt="Banner">
+
+
 
 ```
 Mission: Clean the web from gambling malware.
@@ -13,7 +15,9 @@ Status: Root Access Secured.
 
 DragonCode098@terminal:~$ \_
 
-<img src="{Dragon_Burns_Gambling_Websites_Seamlessly.gif}" />
+<div align="center">
+  <img height="295" src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif"  />
+</div>
 
 
 ```My Skill```<br/>
