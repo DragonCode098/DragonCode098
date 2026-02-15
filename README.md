@@ -25,7 +25,7 @@ Status: Root Access Secured.
       <i>"Build with Logic, Secure with Integrity."</i>
     </td>
     <td align="right">
-      <img src="Background/flag.png" width="200px" height="50px">
+      <img src="Background/flag.png" width="190px" height="50px">
     </td>
   </tr>
 </table>
