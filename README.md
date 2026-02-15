@@ -15,7 +15,7 @@ Status: Root Access Secured.
 ---
 
 DragonCode098@terminal:~$ \_
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3212FF&center=true&width=435&height=100&lines=Hi%2C+Who+are+you%3F;Why+is+it+here%3F;Is+there+anything+I+can+help+you+with%2C+sir%3F;If+you+really+need+help%2C+I'm+the+one+you're+looking+for!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=3212FF&center=true&width=435&height=100&lines=Hi%2C+Who+are+you%3F;Why+is+it+here%3F;Anything+I+can+help%3F;If+true%2C+Contact+me+now!" alt="Typing SVG" /></a>
 <br/>
 <img src="Background/Dragon_Burns_Gambling_Websites_Seamlessly.gif" alt="Banner">
 
