@@ -154,7 +154,18 @@ DragonCode098@terminal:~$ \_ <br/>
  </tr>
 </table>
 
-## ```My Contribution activity ``` <br/>
+## ```Do you really need help or collaboration?``` <br/>
+```Don't be shy, please contact me through social media.```
+<a href="https://wa.me/6285155148830">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="https://www.instagram.com/alfamilenials">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/alfa-rizky-saputra-954094326/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<a href="">
+<img src="https://img.shields.io/badge/Portofolio-%231DA1F2.svg?style=for-the-badge&logo=Portofolio&logoColor=white">
+
+## ```If you are tired, there are games below that you can play.```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragonCode098/DragonCode098/output/pacman-contribution-graph-dark.svg">
