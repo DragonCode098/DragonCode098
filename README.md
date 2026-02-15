@@ -4,14 +4,14 @@ Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 <img src="Background/dragoncodebanner.png" alt="Banner">
 
 <h1 align="center">About Alfa Rizky Saputra </h1>
-<p align="justify">Founder Dragon Code</p>
+<h5 align="center">Founder Dragon Code</h5>
 
-<p align="justify">Saya adalah seorang karyawan pabrik sekaligus mahasiswa S1 Sistem Informasi, yang sedang menempuh perjalanan panjang di dunia teknologi. Di luar rutinitas harian, saya membangun mimpi besar melalui Dragon Code — sebuah identitas yang mencerminkan semangat, disiplin, dan konsistensi saya di dunia IT.
+<p align="justify">Saya adalah seorang karyawan pabrik sekaligus mahasiswa S1 Sistem Informasi, yang sedang menempuh perjalanan panjang di dunia teknologi. Di luar rutinitas harian, saya membangun mimpi besar melalui Dragon Code ,
+ Sebuah identitas yang mencerminkan semangat, disiplin, dan konsistensi saya di dunia IT.
 Saat ini, saya fokus pada bidang: Website Development, Data Science, dan Ethical Hacking.
-Saya adalah pribadi yang haus akan ilmu dan percaya bahwa belajar adalah proses yang tak pernah berakhir. Setiap hari, saya mengasah kemampuan, menulis baris demi baris kode, menganalisis data, dan memperdalam pemahaman tentang keamanan sistem. Bagi saya, coding bukan sekadar keterampilan — melainkan bagian dari hidup dan cara saya berkembang.
+Saya adalah pribadi yang haus akan ilmu dan percaya bahwa belajar adalah proses yang tak pernah berakhir. Setiap hari, saya mengasah kemampuan, menulis baris demi baris kode, menganalisis data, dan memperdalam pemahaman tentang keamanan sistem. Bagi saya, coding bukan sekadar keterampilan melainkan bagian dari hidup dan cara saya berkembang.
 Tujuan saya jelas: menjadi seorang Ethical Hacker profesional yang menguasai dunia web dan data, serta mampu memberikan kontribusi nyata dalam keamanan dan teknologi.
 Saya sangat terbuka untuk kolaborasi, diskusi, dan belajar bersama. Jika Anda memiliki visi yang sama dalam dunia teknologi, mari kita bertumbuh dan berkembang bersama.
-Dragon Code — Bangun dengan Logika, Amankan dengan Integritas.
 </p>
 
 ```
@@ -19,7 +19,7 @@ Mission: Clean the web from gambling malware.
 Status: Root Access Secured.
 ```
 
-> _"Menghapus jejak digital yang merusak, satu baris kode di setiap waktu."_
+> _"Build with Logic, Secure with Integrity."_
 ---
 
 DragonCode098@terminal:~$ \_
@@ -27,8 +27,131 @@ DragonCode098@terminal:~$ \_
 <br/>
 <img src="Background/Dragon_Burns_Gambling_Websites_Seamlessly.gif" alt="Banner">
 
-## ```My Skill```<br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,r,git,docker,react,linux,py,kali)](https://skillicons.dev)
+## ```My Skills tools and technologies```<br/>
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Mysql
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Git" />
+      <br>Nextjs
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="GitLab" />
+      <br>Express
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="HTML" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="jquery" />
+      <br>Kali
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+           <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+  <br>Vue.js
+</td>
+
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Redis" />
+      <br>Html
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="Linux" />
+      <br>Npm
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="dart" />
+      <br>Php
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="dart" />
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="dart" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="dart" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="dart" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="dart" />
+      <br>Laravel
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
 ## ```My Contribution activity ``` <br/>
 
