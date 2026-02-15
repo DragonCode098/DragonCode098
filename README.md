@@ -1,10 +1,18 @@
 Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 
 ## Welcome to Dragon Code's Repository
-<img src="Background/github-header-banner.png" alt="Banner">
+<img src="Background/dragoncodebanner.png" alt="Banner">
 
+<h1 align="center">About Alfa Rizky Saputra </h1>
+<p align="justify">Founder Dragon Code</p>
 
-
+<p align="justify">Saya adalah seorang karyawan pabrik sekaligus mahasiswa S1 Sistem Informasi, yang sedang menempuh perjalanan panjang di dunia teknologi. Di luar rutinitas harian, saya membangun mimpi besar melalui Dragon Code — sebuah identitas yang mencerminkan semangat, disiplin, dan konsistensi saya di dunia IT.
+Saat ini, saya fokus pada bidang: Website Development, Data Science, dan Ethical Hacking.
+Saya adalah pribadi yang haus akan ilmu dan percaya bahwa belajar adalah proses yang tak pernah berakhir. Setiap hari, saya mengasah kemampuan, menulis baris demi baris kode, menganalisis data, dan memperdalam pemahaman tentang keamanan sistem. Bagi saya, coding bukan sekadar keterampilan — melainkan bagian dari hidup dan cara saya berkembang.
+Tujuan saya jelas: menjadi seorang Ethical Hacker profesional yang menguasai dunia web dan data, serta mampu memberikan kontribusi nyata dalam keamanan dan teknologi.
+Saya sangat terbuka untuk kolaborasi, diskusi, dan belajar bersama. Jika Anda memiliki visi yang sama dalam dunia teknologi, mari kita bertumbuh dan berkembang bersama.
+Dragon Code — Bangun dengan Logika, Amankan dengan Integritas.
+</p>
 
 ```
 Mission: Clean the web from gambling malware.
