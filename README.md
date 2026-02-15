@@ -19,8 +19,7 @@ Mission: Clean the web from gambling malware.
 Status: Root Access Secured.
 ```
 
-> _"Build with Logic, Secure with Integrity."_
----
+> _"Build with Logic, Secure with Integrity."_<div style="width:100%; height:20px; background: linear-gradient(to bottom, red 50%, white 50%); border-radius:4px;"></div>
 
 DragonCode098@terminal:~$ \_ <br/>
 
