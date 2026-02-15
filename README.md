@@ -1,7 +1,7 @@
 Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 
 ## Welcome to Dragon Code's Repository
-![DragonCode098](github-header-banner.png)
+![](github-header-banner.png)
 
 ```
 Mission: Clean the web from gambling malware.
