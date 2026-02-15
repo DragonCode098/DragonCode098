@@ -13,8 +13,9 @@ Status: Root Access Secured.
 > _"Menghapus jejak digital yang merusak, satu baris kode di setiap waktu."_
 ---
 
-DragonCode098@terminal:~$ \_
+
 <br/>
+
 ![DragonCode098](https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif)
 <img 
   src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif" 
