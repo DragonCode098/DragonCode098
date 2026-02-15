@@ -2,10 +2,7 @@ Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 
 ## Welcome to Dragon Code's Repository
 <img src="Background/github-header-banner.png" alt="Banner">
-<img 
-  src="https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif" 
-  alt="DragonCode098" 
-  height="325">
+
 
 
 
