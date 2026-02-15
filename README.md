@@ -13,7 +13,7 @@ Status: Root Access Secured.
 
 dragon@terminal:~$ \_
 
-<img src="{Dragon_Burns_Gambling_Websites_Seamlessly.gif}" />
+
 
 
 ```My Skill```
