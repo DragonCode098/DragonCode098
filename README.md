@@ -16,7 +16,7 @@ Status: Root Access Secured.
 
 DragonCode098@terminal:~$ \_
 <br/>
-![DragonCode098](https://media.giphy.com/media/4LBENWeglVtrOf5WV0/giphy.gif)
+<img src="Background/Dragon_Burns_Gambling_Websites_Seamlessly.gif" alt="Banner">
 
 ```My Skill```<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,r,git,docker,react,linux,py,kali)](https://skillicons.dev)
