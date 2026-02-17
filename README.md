@@ -3,6 +3,8 @@ Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
 ## Welcome to Dragon Code's Repository
 <img src="Background/dragoncodebanner.png" alt="Banner">
 
+<img src="Background/Personprofil.gif" alt="Profil">
+
 <h1 align="center">About Alfa Rizky Saputra </h1>
 <h3 align="center">Founder Dragon Code</h3>
 
