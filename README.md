@@ -1,4 +1,4 @@
-Last login: Sun Feb 15 08:30:00 2026 from 127.0.0.1
+Last login: Sun Feb 15 08:30:00 2026 
 
 ## Welcome to Dragon Code's Repository
 <img src="Background/dragoncodebanner.png" alt="Banner">
