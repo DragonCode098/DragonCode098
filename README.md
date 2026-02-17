@@ -110,6 +110,8 @@ DragonCode098@terminal:~$ \_ <br/>
 
 ## ```Do you really need help or collaboration?``` <br/>
 ```Don't be shy, please contact me through social media.```
+<a href="http://discord.com/users/AlfaRizky098#8774">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://wa.me/6285155148830">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 <a href="https://www.instagram.com/alfamilenials">
