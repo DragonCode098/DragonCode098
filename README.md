@@ -104,6 +104,9 @@ DragonCode098@terminal:~$ \_ <br/>
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
         <br>Linux
     </td>
+
+
+
   </tr>
 
 </table>
@@ -120,6 +123,61 @@ DragonCode098@terminal:~$ \_ <br/>
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 <a href="">
 <img src="https://img.shields.io/badge/Portofolio-%231DA1F2.svg?style=for-the-badge&logo=Portofolio&logoColor=white">
+
+## ```My Role Model in the world of programming```
+```Here are some inspirational figures that I often look up to and watch on their YouTube channels.```
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/@davidbombal">
+<img src="RoleFigure/DavidBombal.jpg" width="120"><br>
+<b>David Bombal</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@0dayCTF">
+<img src="RoleFigure/RyanMontgomery.jpg" width="120"><br>
+<b>Ryan Montgomery</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@sandhikagalihWPU">
+<img src="RoleFigure/ShandikaGalih.jpg" width="120"><br>
+<b>WPU</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@ProgrammerZamanNow">
+<img src="RoleFigure/ProgrammerZamanNow.jpg" width="120"><br>
+<b>
+Programmer Zaman Now</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@deaafrizal">
+<img src="RoleFigure/DeaAfrizal.jpg" width="120"><br>
+<b>Dea Afrizal</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@programmingwithmosh">
+<img src="RoleFigure/ProgrammingWithMosh.jpg" width="120"><br>
+<b>ProgrammingWithMosh</b>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@AlexTheAnalyst">
+<img src="RoleFigure/AlexTheAnalyst.jpg" width="120"><br>
+<b>AlexTheAnalyst</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## ```If you are tired, there are games below that you can play.```
 
